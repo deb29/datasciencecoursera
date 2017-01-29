@@ -1,6 +1,5 @@
 # Plotting Coal Emissions
-Daniel Maurath  
-June, 2014  
+
 
 ####About
 This was a project for the **Exploratory Data Analysis** course in Coursera's Data Science specialization track. The objective was to practice reshaping and plotting data as well as how to make decisions how to interpret and present data. 
