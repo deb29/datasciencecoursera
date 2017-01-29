@@ -1,6 +1,5 @@
 # Cleaning Movement Tracking Data
-Daniel Maurath  
-June, 2014  
+
 ####About
 This was a project for the **Getting and Cleaning Data** course in Coursera's Data Science specialization track. The purpose of the project was to practice cleaning and merging multiple data sets into a single tidy data set.
 
