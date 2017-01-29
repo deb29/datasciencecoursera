@@ -1,6 +1,6 @@
 # Health and Economic Implications of Storms
-Daniel Maurath  
-July, 2014  
+
+
 
 
 #### About
