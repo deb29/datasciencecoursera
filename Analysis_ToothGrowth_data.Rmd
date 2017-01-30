@@ -1,6 +1,6 @@
 ---
 title: "Analysis of the ToothGrowth data"
-author: "Vrinda Prabhu"
+author: "Debasatwa Dutta"
 date: "Sunday 31 January 2016"
 output: html_document
 ---
